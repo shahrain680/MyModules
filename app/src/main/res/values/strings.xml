@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules</string>
+    <string name="module1">C346 Android Programming</string>
+    <string name="module2">C322 Data Centre and Cloud Mgmt</string>
+    <string name="module3">C382 IT Service Delivery</string>
+    <string name="back">BACK</string>
+</resources>
